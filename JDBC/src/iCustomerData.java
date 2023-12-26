@@ -1,0 +1,3 @@
+interface iCustomerData {
+    void inputCustomerData();
+}
